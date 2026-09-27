@@ -48,7 +48,7 @@ import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
 import kotlinx.coroutines.launch
-import com.asteam.poolyar.BuildConfig
+import ru.resodostudios.cashsense.BuildConfig
 import ru.resodostudios.cashsense.R
 import ru.resodostudios.cashsense.feature.category.list.api.CategoriesNavKey
 import ru.resodostudios.cashsense.feature.home.api.HomeNavKey
